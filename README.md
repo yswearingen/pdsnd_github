@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+April 3, 2019
 
 ### Project Title
-Replace the Project Title
+Github Udacity Project
 
 ### Description
-Describe what your project is about and what it does
+This project is to show my skills I have learned throughout the Udacity course and will take me through ways to show this.
 
 ### Files used
-Include the files used
+bikeshare.py files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+None for right now.
