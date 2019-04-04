@@ -2,7 +2,7 @@
 April 3, 2019
 
 ### Project Title
-Github Udacity Project
+Post your Work to Github Project
 
 ### Description
 This project is to show the skills I have learned throughout the Intro to Version Control lesson.
