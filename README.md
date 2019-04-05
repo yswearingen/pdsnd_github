@@ -8,7 +8,7 @@ Github Udacity Project
 This project is to show the skills I have learned throughout the Intro to Version Control lesson.
 
 ### Files used
-bikeshare.py file
+bikeshare.py file from previous project 
 
 ### Credits
 None for right now.
