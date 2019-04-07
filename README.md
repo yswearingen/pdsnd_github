@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+April 3, 2019
 
 ### Project Title
-Replace the Project Title
+Github Udacity Project
 
 ### Description
-Describe what your project is about and what it does
+This project is to show the skills I have learned throughout the Intro to Version Control lesson.
 
 ### Files used
-Include the files used
+bikeshare.py file from previous project 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+None for right now.
